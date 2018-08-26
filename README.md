@@ -1,2 +1,2 @@
-# hello-world
-Hello world new project template.
+# spaceInvaders_versaoTeste
+game test for study, to pass on
