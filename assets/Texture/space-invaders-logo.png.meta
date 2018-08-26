@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c9390b6f-c0b0-4671-9659-b2ecac236c69",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "space-invaders-logo": {
+      "ver": "1.0.3",
+      "uuid": "bbe577c8-0038-433e-81ac-a02f70016b37",
+      "rawTextureUuid": "c9390b6f-c0b0-4671-9659-b2ecac236c69",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -20.5,
+      "offsetY": -3,
+      "trimX": 4,
+      "trimY": 6,
+      "width": 1001,
+      "height": 264,
+      "rawWidth": 1050,
+      "rawHeight": 270,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
